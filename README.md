@@ -1,6 +1,5 @@
 ### Hi, My name is Ivan Kramarenko
 
-🔭 I'm currently looking for a job as a front-end developer, mostly on React.<br/>
 🔭 I’m currently looking for a job as a system administrator.<br/>
 👯 I aspire to become a professional in system administration and DevOps.<br/>
 🤔 I can help with server setup, network devices, and monitoring systems.<br/>
